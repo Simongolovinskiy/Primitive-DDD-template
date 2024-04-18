@@ -1,2 +1,2 @@
 # Primitive-DDD-template
-Example of small struct Domain Driven Design
+Самый примитивный шаблон Domain driven design для понимания что есть что.
